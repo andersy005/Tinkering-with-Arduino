@@ -19,7 +19,7 @@ void setup() {
   pinMode(carGreen, OUTPUT);
   pinMode(pedRed, OUTPUT);
   pinMode(pedGreen, OUTPUT);
-  pinMode(button, OUTPUT);  // button on pin 2
+  pinMode(button, INPUT);  // button on pin 2
 
   // turn on the green light
   digitalWrite(carGreen, HIGH);
