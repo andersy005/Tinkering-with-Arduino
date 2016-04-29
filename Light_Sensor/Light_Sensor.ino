@@ -1,4 +1,4 @@
-// Project 14 - Light Sensor
+// Project 14 - Light Sensor with Piezo
 
 int piezoPin = 8;    // Piezo on pin 8
 int ldrPin = 0;      // LDR on Analog Pin 0
